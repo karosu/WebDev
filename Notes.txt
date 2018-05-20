@@ -1,0 +1,22 @@
+<strong>is bold</strong>
+<em>is italicize</em>
+
+we'll learn how these differ from the older ones like 
+
+<b>bold</b> and <i>italicize</i>
+
+<br>line break</br>
+<hr>horizontal break</hr>
+
+<img src"used for image links or pictures" can also include width=" " and height= " " withing the same bracket>
+
+alt="is used for the the image or link does not work"
+
+<a href="">is an anchor tag with a hypertext reference</a>
+
+you can include headers and paragraphs in anchor tags
+
+its common practice to name your home page as index.html because most servers look for that file first
+
+index.html(Home File)
+
